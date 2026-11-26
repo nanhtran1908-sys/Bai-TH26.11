@@ -1,7 +1,7 @@
 # BÀI TẬP THỰC HÀNH LẬP TRÌNH WINDOWS FORMS (BÀI 6.6 & BÀI 6.7)
 
-- **Sinh viên thực hiện:** Nguyễn Trường Giang
-- **Lớp:** D19CNPM3 — **MSV:** 24810310200
+- **Sinh viên thực hiện:** Trần Ngọc Anh
+- **Lớp:** D19CNPM3 — **MSV:** 24810310211
 
 ## 1. Nội dung bài tập
 1. **Bài tập 6.6 — Hệ thống MDI điều hành mạng lưới cây ATM Ngân hàng:**
